@@ -11,7 +11,7 @@ fun main() {
     for (i in category)
         println(i)
 
-    println("Enter the value :")
+    println("choose super conversion :")
     val input = readln()
     val isInt = input.toIntOrNull()
 
